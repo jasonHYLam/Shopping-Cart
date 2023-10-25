@@ -13,6 +13,8 @@ The design was loosely inspired by the Bape online store.
 - CSS modules to separate styling with the same classnames.
 - Displaying an item page, using dynamic segments.
 
-Home page image from Pexels: https://www.pexels.com/
-Icons from https://pictogrammers.com/library/mdi/
+  Home page image from Pexels: https://www.pexels.com/
+
+  
+  Icons from https://pictogrammers.com/library/mdi/
 
