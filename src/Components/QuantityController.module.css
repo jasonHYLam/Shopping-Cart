@@ -1,0 +1,30 @@
+
+.button, .input {
+    height: 50px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 0;
+    box-sizing: border-box;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+.input {
+    width: 40px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+
+.inputContainer {
+    display: flex;
+    align-items: center;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

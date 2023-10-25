@@ -1,0 +1,17 @@
+.card {
+    width: 300px;
+    height: 500px;
+    padding-top: 40px;
+    display: grid;
+    grid-template-rows: 250px 200px;
+}
+
+.card:hover {
+    border-bottom: black solid 1px;
+}
+
+img {
+    width: 150px;
+}
+
+

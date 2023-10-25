@@ -1,0 +1,13 @@
+.cartImage {
+    height: 20px;
+    width: 20px;
+}
+
+.checkoutContainer {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    color: black;
+}

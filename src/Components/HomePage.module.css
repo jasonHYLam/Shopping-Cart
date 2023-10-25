@@ -1,0 +1,29 @@
+.container {
+    padding-top: 90px;
+    background-image: url("../assets/home-picture.jpg");
+    width: 800px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.insideImageText {
+    color: aliceblue;
+}
+
+.animation {
+    animation: fadeIn 1s ease;
+
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(50%);
+    
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

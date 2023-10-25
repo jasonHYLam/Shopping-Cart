@@ -1,0 +1,41 @@
+.container {
+   display: grid; 
+   grid-template-columns: 1000px 400px;
+}
+
+
+.right {
+    text-align: left;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    height: 500px;
+    width: auto;
+}
+
+.closeText {
+    margin: 5px;
+
+}
+
+.addCartButton {
+    background-color: black;
+    color: white;
+    border-radius: 0;
+    width: auto;
+    margin-top: 30px;
+}
+
+.arrowIcon {
+    height: 30px;
+    width: 30px;
+}
+
+.verticalCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
